@@ -41,6 +41,7 @@
 -ORM: Entity Framework Core for database interactions
 
 ## Key Features
+-**Clean Architecture**: design for building robust, maintainable, and testable systems.separation of concerns, independence from frameworks,and a clear structure of dependencies.it’st suited for larger projects 
 -**WhatsApp Integration**: Subscribers and Users can receive notifications and updates via WhatsApp (e.g., book availability, due dates, reminders).
 
 -**Email notificatin**: Subscribers and Users can receive notifications like welcom notification and renew notification. 
