@@ -1,55 +1,57 @@
 # BookHaven MVC Project
 
 # Project Mind Map
-![Image](https://github.com/user-attachments/assets/06bbdbdd-522a-4dc3-9943-8526af52bf4a)
-![Image](https://github.com/user-attachments/assets/4f3fd1e3-8325-41d1-b714-941a524956e7)
+![Image](https://github.com/user-attachments/assets/cb2c1273-e969-4738-bd58-fa6021b14882)
+
+![Image](https://github.com/user-attachments/assets/f9c87150-be34-4f81-8944-85e83fa748cb)
 ## Glimpse of the working solution
-![Image](https://github.com/user-attachments/assets/fcd75342-56d5-43d3-a6ed-c8217fc7ffbb)
+![Image](https://github.com/user-attachments/assets/d0dbf38a-2223-4852-aca8-c3404e07e8d6)
 
-![Image](https://github.com/user-attachments/assets/b0052b40-91e6-469e-8cea-ce320c8514bc)
+![Image](https://github.com/user-attachments/assets/10fb4b30-54ea-434d-a67e-4e2629ebac8d)
 
-![Image](https://github.com/user-attachments/assets/203515d1-8e1f-4720-bcfc-1bc9b216ab84)
+![Image](https://github.com/user-attachments/assets/da7c545d-20b5-40be-8f76-bdb652f0a1b1)
 
-![Image](https://github.com/user-attachments/assets/04379ed9-4b8e-4876-b3de-7d7e1d920fab)
+![Image](https://github.com/user-attachments/assets/3348172a-39da-42d4-b7b8-a2aea938ffd3)
 
-![Image](https://github.com/user-attachments/assets/b64d7084-29cc-48e4-b04f-ffe0eed94fc1)
+![Image](https://github.com/user-attachments/assets/e0e7dbba-e7c7-45f8-91c9-7d77d627c403)
 
-![Image](https://github.com/user-attachments/assets/d1c8ecd4-0033-4381-b7c5-8d526e71ea88)
+![Image](https://github.com/user-attachments/assets/c9532014-a832-4a8f-af91-cd8ca5b4614b)
 
-![Image](https://github.com/user-attachments/assets/13982ca6-8343-4811-bfbf-a6443f3fd7fc)
+![Image](https://github.com/user-attachments/assets/ca2370f2-6fda-41bd-9a42-6b3043060628)
 
-![Image](https://github.com/user-attachments/assets/f7b1c331-6071-4a65-9819-75379d23f4f3)
+![Image](https://github.com/user-attachments/assets/7d553419-ab97-4b9c-973c-bd944ddbe900)
 
-![Image](https://github.com/user-attachments/assets/522a6c9b-0668-4b37-a483-19663aa3accf)
+![Image](https://github.com/user-attachments/assets/b2581740-f94c-46cd-8e41-863eed23264e)
 
-![Image](https://github.com/user-attachments/assets/097bd1ad-55f6-4b23-91cb-35d660472b9a)
-![Image](https://github.com/user-attachments/assets/d357ed33-b9c2-4e31-b40e-cc46b1056b06)
+![Image](https://github.com/user-attachments/assets/f499ecb0-f70e-4f8e-9492-892025174cbf)
 
-![Image](https://github.com/user-attachments/assets/468df2b2-4845-4f9c-9c14-7e01e0967b7c)
+![Image](https://github.com/user-attachments/assets/75a601cf-fe92-4665-9fed-ae09645bbc5d)
 
-![Image](https://github.com/user-attachments/assets/10d71b06-ab75-4525-b983-6a12157beb34)
+![Image](https://github.com/user-attachments/assets/2393a3bf-0351-492a-b1f5-823c9abeccac)
 
-![Image](https://github.com/user-attachments/assets/13bb6098-413d-44ae-9de2-a78446ba62f4)
+![Image](https://github.com/user-attachments/assets/7ba59cad-a6c7-4b42-bee7-eb0578923f0f)
 
-![Image](https://github.com/user-attachments/assets/2bb8d7ce-3116-4b0a-9fdc-00fba3cf7a15)
+![Image](https://github.com/user-attachments/assets/d62923d1-a1a8-472d-b783-4eeaf5903e4e)
 
-![Image](https://github.com/user-attachments/assets/9f186473-600a-4cb5-8af1-7f6757314a49)
+![Image](https://github.com/user-attachments/assets/c6599e31-5010-4fc5-b9e1-5f7a6f2787aa)
 
-![Image](https://github.com/user-attachments/assets/265b381b-08e3-45da-a908-1b02305a51c0)
+![Image](https://github.com/user-attachments/assets/a7a25a79-188f-49e5-9acc-977abe58bcc3)
 
-![Image](https://github.com/user-attachments/assets/7060cb45-75b0-4654-86f7-d6258a6029c9)
+![Image](https://github.com/user-attachments/assets/64e0ac99-5640-4519-8a6a-749c5b1502c7)
 
-![Image](https://github.com/user-attachments/assets/4862cfc8-da85-4309-b2c1-a7592ab62939)
+![Image](https://github.com/user-attachments/assets/dfaed8fc-efd0-4e5b-a686-24602ccd747e)
 
-![Image](https://github.com/user-attachments/assets/5f2004f0-d373-490d-a84e-7910a9df3be2)
+![Image](https://github.com/user-attachments/assets/73c8d7c9-7de9-4699-a537-2819113427e3)
 
-![Image](https://github.com/user-attachments/assets/c01f8e54-884c-4018-98d9-cec290abb8ab)
+![Image](https://github.com/user-attachments/assets/7941477e-323f-46c7-b0b1-4156d6fa66d0)
 
-![Image](https://github.com/user-attachments/assets/82820eeb-a96c-41c3-bf6a-cc08aadd73fb)
+![Image](https://github.com/user-attachments/assets/7763fef8-b2bb-4cb6-81d8-8fc6bfad3a23)
 
-![Image](https://github.com/user-attachments/assets/d99a463a-4911-4a86-bb80-e761ec21f72b)
+![Image](https://github.com/user-attachments/assets/63e49622-a87a-409b-bc8f-047133378a13)
 
-![Image](https://github.com/user-attachments/assets/7feac322-7aba-47bf-b866-b729064e3ef2)
+![Image](https://github.com/user-attachments/assets/f2da75af-a08c-444d-8834-843604dcec21)
+
+![Image](https://github.com/user-attachments/assets/bfb87536-3a94-4484-8b8b-206a3addf66e)
 
 ## Project Overview
 
